@@ -64,7 +64,7 @@ valueA < valueB
 1. Verification
 1. Maintenance
 <pre><code>
-    \#import <UIKIT/UIKit.h>
+    \#import \<UIKIT/UIKit.h\>
     for (int i=0; i<10; i++) {
     NSLog(@"Hello World");
     }
