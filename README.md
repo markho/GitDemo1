@@ -57,9 +57,9 @@ valueA < valueB
 + Scope
 
 有序的內容為
-1 Requirement
-2 Design
-3 Implement
+1. Requirement
+2. Design
+3. Implement
 4. Verification
 5. Maintenance
 
