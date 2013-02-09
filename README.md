@@ -65,3 +65,6 @@ valueA < valueB
 1. Maintenance
 
     \#import <UIKIT/UIKit.h>
+    for (int i=0; i<10; i++) {
+    NSLog(@"Hello World");
+    }
