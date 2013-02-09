@@ -49,3 +49,11 @@ valueA < valueB
 >> 允許雙重的quote
 
 > 使用大於符號標起來
+
+專案的基礎為:
+
+- Resource
+* Schedule
++ Scope
+
+
