@@ -12,3 +12,5 @@ My first github practice
 </tr>
 
 </table>
+
+valueA < valueB
